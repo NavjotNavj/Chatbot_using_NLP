@@ -27,6 +27,6 @@ Stemming is the process of reducing inflected (or sometimes derived) words to th
 ### Bag of Words
 After the initial preprocessing phase, we need to transform the text into a meaningful vector (or array) of numbers. The bag-of-words is a representation of text that describes the occurrence of words within a document.
 
-
+![](chatbot_Model.png)
 
 
